@@ -106,8 +106,8 @@ document.addEventListener('DOMContentLoaded', function() {
       title: 'Mi Portafolio',
       description: 'Página web creada y diseñada por mí para mostrar mis trabajos y poder contactarme.',
       icons: ['./img/tecnologias/bootstrap.png', './img/tecnologias/css_3.png', './img/tecnologias/js.png', './img/tecnologias/html_5.png'],
-      viewProject: 'https://pointererp.com',
-      viewCode: 'https://github.com/zarocknc/pointerperulandpage'
+      viewProject: 'https://portafolio-five-beige.vercel.app',
+      viewCode: 'https://github.com/Focbri/Portafolio'
     }
   };
 
